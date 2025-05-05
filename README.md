@@ -75,10 +75,3 @@ The application uses the CoinGecko API to fetch real-time BTC/USD prices. The AP
 See [IDEAS.md](./IDEAS.md) for a list of potential future enhancements.
 
 
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new) from the creators of Next.js.
-
-Check out the [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-
